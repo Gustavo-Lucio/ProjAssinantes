@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nome": "Cid",
+        "sobrenome": "Ney",
+        "nascimento": "1980-04-22T00:00:00.000Z",
+        "telefone": 43443433,
+        "endereco": "Groove Street",
+        "cidade": "Los Santos",
+        "status": true,
+        "imagem": "uploads\\1685495637581.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Mateux",
+        "sobrenome": "Canela",
+        "nascimento": "1996-11-30T00:00:00.000Z",
+        "telefone": 655544,
+        "endereco": "Por ai",
+        "cidade": "Pix",
+        "status": false,
+        "imagem": "uploads\\1685495828753.jpg"
+    }
+]
